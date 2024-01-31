@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TiroirB</string>
+    <string name="draw_open">Ouvert</string>
+    <string name="draw_close">Ferme</string>
 </resources>
